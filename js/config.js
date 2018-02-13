@@ -107,14 +107,14 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
+	"Welcome to Zealot Gaming. We hope you enjoy your stay!",
 	"Thanks for joining us!",
 	"Arbiter: Kill me or release me, parasite. But do not waste my time with talk!",
 	"Sgt. Johnson: Now listen up! Back in my day, we didn't have fancy tanks! We had sticks. Two sticks and a rock for the entire platoon! And we had to share the rock! You should consider yourself very lucky marines!",
