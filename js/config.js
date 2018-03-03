@@ -94,7 +94,7 @@ Place how much .ogg songs you want
 var l_musicPlaylist = [
         {youtube: "1ZYbU82GVz4", name: "Relaxing Music"},
 	{youtube: "hQrkuO0k6qs", name: "Asphalt and Ablution"},
-        {youtube: "yWh9l8RSkPk", name: "Deference for Darkness"},
+        {youtube: "yWh9l8RSkPk", name: "Difference for Darkness"},
         {youtube: "R2HS-xmHOdI", name: "Unforgotten Memories"},
         {youtube: "PvHPBcVTl8U", name: "Bad Here Day"} 
 ];
@@ -104,7 +104,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 8;
+var l_musicVolume = 9;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
