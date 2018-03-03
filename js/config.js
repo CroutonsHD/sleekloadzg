@@ -53,12 +53,12 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"a85ba27bd254fd08d80cf6f0be33d37c.jpg",
-	"gaming-wallpapers-1920x1080-HD9.jpg",
+	"alice.jpg",
+	"halo_wars-2.jpg",
 	"halo-3-odst-03-artwork.jpg",
-	"halo-34357-1920x1080.jpg",
-	"halo-reach-16162.jpg",
-	"T3WAlH.jpg",
+	"halo-2-into-the-action.jpg",
+	"Halo-1920x1080-wallpaper-27.jpg",
+	"halo-wars-02.jpg",
 ];
 
 /*Random background images order?*/
@@ -92,14 +92,11 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{ogg: "Halo 2 Anniversary OST - Breaking the Covenant.ogg", name: "Breaking the Covenant"},
-	{youtube: "lviYhyN_VKI", name: "Follow in Flight"},
-	{youtube: "r_Wz4HVn2l8", name: "Halo Theme"},
-	{youtube: "2nDzLtCGoFo", name: "Spirit of Fire"},
-	{youtube: "SBjKWKN6jaI", name: "Never Forget"},
-	{youtube: "tnEb5Teu5b4", name: "Impart"},
-	{youtube: "DNWaJU8nNno", name: "Finish the Fight"},
-	{youtube: "phk7di38iv8", name: "Isignificatia"},
+        {youtube: "1ZYbU82GVz4", name: "Relaxing Music"},
+	{youtube: "hQrkuO0k6qs", name: "Asphalt and Ablution"},
+        {youtube: "yWh9l8RSkPk", name: "Deference for Darkness"},
+        {youtube: "R2HS-xmHOdI", name: "Unforgotten Memories"},
+        {youtube: "PvHPBcVTl8U", name: "Bad Here Day"} 
 ];
 
 /*Random music order?*/
@@ -107,7 +104,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 12;
+var l_musicVolume = 8;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -115,7 +112,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Welcome to Zealot Gaming. We hope you enjoy your stay!",
-	"Thanks for joining us!",
+	"Make friends, check out our forums, and have fun!",
 	"Arbiter: Kill me or release me, parasite. But do not waste my time with talk!",
 	"Sgt. Johnson: Now listen up! Back in my day, we didn't have fancy tanks! We had sticks. Two sticks and a rock for the entire platoon! And we had to share the rock! You should consider yourself very lucky marines!",
 	"Sgt. Johnson: [mans a machine gun] Oh, I *know* what the ladies like.",
