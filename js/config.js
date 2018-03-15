@@ -53,9 +53,9 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Put the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"alice.jpg",
-	"halo_wars-2.jpg",
-	"halo-3-odst-03-artwork.jpg",
+	"awesomeeliteart-99cb59ccf29d40e5afbe1b001241a2f3.jpg",
+	"halo_wars_2_trailer__escape_by_daroz-db012er.jpg",
+	"halo-wars-2-operation-spearbreaker-dlc-hd-wallpaper-1920x1080.jpg",
 	"halo-2-into-the-action.jpg",
 	"Halo-1920x1080-wallpaper-27.jpg",
 	"halo-wars-02.jpg",
